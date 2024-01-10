@@ -11,7 +11,7 @@ A project built in 7 days.
 
 ## Demo  🎥
 
-- Deployed Link:- [Enjoy the Experience](https://myntra-fashions-clone.netlify.app/)
+- Deployed Link:- [Enjoy the Experience](https://myntraclonebykeshav.netlify.app/)
 
 
 ## Tech Stack 💻
